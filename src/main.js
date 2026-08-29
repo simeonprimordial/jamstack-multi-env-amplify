@@ -24,6 +24,9 @@ document.querySelector('#app').innerHTML = `
           <span class="status-dot"></span>
           Deployed environment: <strong>${environment}</strong>
         </div>
+        <div class="release-banner">
+  🚀      Release candidate: Environment promotion workflow enabled
+        </div>
       </div>
     </section>
 
