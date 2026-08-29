@@ -2,8 +2,6 @@
 
 A small Jamstack application demonstrating controlled frontend delivery across Preview, Staging, and Production using GitHub and AWS Amplify Hosting.
 
-## Project 10 — AWS 80 Projects
-
 ### Engineering Objective
 
 Demonstrate:
